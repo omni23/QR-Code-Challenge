@@ -7,7 +7,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
 
 ## Overview
@@ -20,10 +19,8 @@ A simple QR code component created for a Frontend Mentor challenge
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
+- Solution URL: [Solution](frontendmentor.io/solutions/qr-code-solution-JF2uPGbAwU)
+- Live Site URL: [Live Site](https://omni23.github.io/QR-Code-Challenge)
 
 ### Built with
 
@@ -33,4 +30,4 @@ A simple QR code component created for a Frontend Mentor challenge
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/omni23)
+- Frontend Mentor - [@omni23](https://www.frontendmentor.io/profile/omni23)
