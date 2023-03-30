@@ -1,10 +1,15 @@
 body {
     background-color: hsl(212, 45%, 89%);
     min-height: 100vh;
+    font-family: outfit, sans-serif;
+    display: flex;
+}
+
+main {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-family: outfit, sans-serif;
+    flex: 1;
 }
 
 div  {
