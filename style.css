@@ -1,0 +1,31 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: outfit, sans-serif;
+}
+
+div  {
+    width: 17rem; /*make component scale with font size*/
+    background-color: hsl(0, 0%, 100%);
+    padding: 15px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+h1 {
+    font-size: 1.4rem;
+    color: hsl(218, 44%, 22%)
+}
+
+p {
+    font-size: 1rem;
+    color: hsl(220, 15%, 55%);
+}
